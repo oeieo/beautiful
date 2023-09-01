@@ -6,9 +6,9 @@ background: linear-gradient(45deg, #C7F5FE 10%, #C7F5FE 40%, #FCC8F8 40%, #FCC8F
 }
 div,p,tbody,table,tr,td,
 -- github
-html,textarea,span,button,li,span,h2,main,a,kbd,section,header,summary,form,input {
+html,textarea,span,button,li,span,h2,main,a,kbd,section,header,summary,form,input,ul {
 background: #31f56703 !important
 }
-details-dialog,modal-dialog,query-builder,ul{
+details-dialog,modal-dialog,query-builder{
 background: linear-gradient(45deg, #C7F5FE 10%, #C7F5FE 40%, #FCC8F8 40%, #FCC8F8 60%, #EAB4F8 60%, #EAB4F8 65%, #F3F798 65%, #F3F798 90%) !important
 }
