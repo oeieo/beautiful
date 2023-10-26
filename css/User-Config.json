@@ -1,53 +1,53 @@
 {
-  "autoSync": false,
-  "beta": true,
-  "enableInputTranslation": true,
-  "generalRule": {
-    "injectedCss": "* {\n    background-color: #C7F5FE !important\n    background: #009dff00 !important\n}\n\nbody {\n    background: linear-gradient(to right, #00f2fe 0%, #d4fc79 19%, #ace0f9 42%, #fa71cd 79%, #fee140 100%)\n}\n\n/*透明色a,*/\ndiv,tbody,\n/*github*/\n.color-bg-default,.dAUChH,.color-bg-subtle, \ntextarea,span,button,li,span,h2,main,kbd,section,header,summary,form,input,ul { \n    background: #009dff00 !important\n}\n/*feishu*/\n.docx-menu-container,.overlay-container,.ud__popover-content { \n    background: linear-gradient(to right, #00f2fe 0%, #d4fc79 19%, #ace0f9 42%, #fa71cd 79%, #fee140 100%) !important\n}\n/*透明加颜色*/\n/*github*/\n.Popover,.search-suggestions,.Overlay,.IOwFn,.cfHMLL,.cloud-panel,.dropdown-menu,.ifKjla{  \n   /* background: #8bfce9d6 !important*/\n   background: linear-gradient(to right, #00f2fe 0%, #d4fc79 19%, #ace0f9 42%, #fa71cd 79%, #fee140 100%) !important \n}\n\n/*twitter 解决图片展示不出来问题*/\n.css-9pa8cd{\nopacity: 100 !important\n}",
-    "mouseHoverHoldKey": "Auto"
-  },
-  "inputTranslationService": "bing",
-  "isChangedAlwaysTranslatedUrls": true,
-  "isShowInputTranslationConsent": false,
-  "modifiedBySystem": true, 
-  "translationService": "google",
-  "translationServices": {
-    "openai": {
-      "APIKEY": "authorization268867622145139847bitoUserId139847wsId87967",
-      "apiUrl": "https://worker-odd-surf-49ef.niuniu-tie.workers.dev/",
-      "model": "gpt-3.5-turbo",
-      "provider": "custom"🔄  ❓
-    }
-  },
-  "translationTheme": "marker2",
-  "translationThemePatterns": {
-    "marker2": {
-      "backgroundColor": "#fff700"
-    }
-  },
-  "translationUrlPattern": {
-    "excludeMatches": [
-      "*.github.dev",
-      "*.cloudflare.com",
-      "*.99.74.69",
-      "*.live.com",
-      "*.feishu.cn",
-      "*.qingshuxuetang.com",
-      "*.msxf.com"
-    ],
-    "matches": [
-      "twitter.com",
-      "www.reddit.com",
-      "www.kadaza.com",
-      "en.wikipedia.org",
-      "www.reuters.com",
-      "www.bloomberg.com",
-      "*.medium.com",
-      "news.ycombinator.com",
-      "edition.cnn.com",
-      "www.wsj.com",
-      "www.goodreads.com"
-    ]
-  },
-  "updatedAt": "2023-10-26T12:49:28.926Z"
+    "autoSync": false,
+    "beta": true,
+    "enableInputTranslation": true,
+    "generalRule": {
+        "injectedCss": "* {\n    background-color: #C7F5FE !important\n    background: #009dff00 !important\n}\n\nbody {\n    background: linear-gradient(to right, #00f2fe 0%, #d4fc79 19%, #ace0f9 42%, #fa71cd 79%, #fee140 100%)\n}\n\n/*透明色a,*/\ndiv,tbody,\n/*github*/\n.color-bg-default,.dAUChH,.color-bg-subtle, \ntextarea,span,button,li,span,h2,main,kbd,section,header,summary,form,input,ul { \n    background: #009dff00 !important\n}\n/*feishu*/\n.docx-menu-container,.overlay-container,.ud__popover-content { \n    background: linear-gradient(to right, #00f2fe 0%, #d4fc79 19%, #ace0f9 42%, #fa71cd 79%, #fee140 100%) !important\n}\n/*透明加颜色*/\n/*github*/\n.Popover,.search-suggestions,.Overlay,.IOwFn,.cfHMLL,.cloud-panel,.dropdown-menu,.ifKjla{  \n   /* background: #8bfce9d6 !important*/\n   background: linear-gradient(to right, #00f2fe 0%, #d4fc79 19%, #ace0f9 42%, #fa71cd 79%, #fee140 100%) !important \n}\n\n/*twitter 解决图片展示不出来问题*/\n.css-9pa8cd{\nopacity: 100 !important\n}",
+        "mouseHoverHoldKey": "Auto"
+    },
+    "inputTranslationService": "bing",
+    "isChangedAlwaysTranslatedUrls": true,
+    "isShowInputTranslationConsent": false,
+    "modifiedBySystem": true,
+    "translationService": "google",
+    "translationServices": {
+        "openai": {
+            "APIKEY": "authorization268867622145139847bitoUserId139847wsId87967",
+            "apiUrl": "https://worker-odd-surf-49ef.niuniu-tie.workers.dev/",
+            "model": "gpt-3.5-turbo",
+            "provider": "custom"
+        }
+    },
+    "translationTheme": "marker2",
+    "translationThemePatterns": {
+        "marker2": {
+            "backgroundColor": "#fff700"
+        }
+    },
+    "translationUrlPattern": {
+        "excludeMatches": [
+            "*.github.dev",
+            "*.cloudflare.com",
+            "*.99.74.69",
+            "*.live.com",
+            "*.feishu.cn",
+            "*.qingshuxuetang.com",
+            "*.msxf.com"
+        ],
+        "matches": [
+            "twitter.com",
+            "www.reddit.com",
+            "www.kadaza.com",
+            "en.wikipedia.org",
+            "www.reuters.com",
+            "www.bloomberg.com",
+            "*.medium.com",
+            "news.ycombinator.com",
+            "edition.cnn.com",
+            "www.wsj.com",
+            "www.goodreads.com"
+        ]
+    },
+    "updatedAt": "2023-10-26T12:49:28.926Z"
 }
