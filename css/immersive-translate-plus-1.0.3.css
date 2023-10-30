@@ -3,19 +3,21 @@
     background: #009dff00 !important
 }
 
-/*透明色a,*/
+/*透明色*/
 div,tbody,
 /*github*/
 .color-bg-default,.dAUChH,.color-bg-subtle, 
+/*arthas.aliyun.com*/
+.sidebar,
 textarea,span,button,li,span,h2,main,kbd,section,header,summary,form,input,ul { 
     background: #009dff00 !important
 }
 
-/*透明加颜色*/
+/*自定义背景色*/
 /*github*/
 .Popover,.search-suggestions,.Overlay,.IOwFn,.cfHMLL,.cloud-panel,.dropdown-menu,.ifKjla,
 /*feishu*/
-.docx-menu-container,.overlay-container,.ud__popover-content,.ud__menu-normal,._pp-panel-content,.ud__dialog__wrap,
+.docx-menu-container,.overlay-container,.ud__popover-content,.ud__menu-normal,._pp-panel-content,.ud__dialog__wrap,.sheet-date-time-picker-popover,
 body{  
    background: linear-gradient(to right, #00f2fe 0%, #d4fc79 19%, #ace0f9 42%, #fa71cd 79%, #fee140 100%) !important 
 }
