@@ -21,7 +21,9 @@ textarea,span,button,li,span,h2,main,kbd,section,header,summary,form,input,ul {
 /*feishu*/
 .docx-menu-container,.overlay-container,.ud__popover-content,.ud__menu-normal,._pp-panel-content,.ud__dialog__wrap,.sheet-date-time-picker-popover,.wiki-space-siderbar,
 body{  
-   background: linear-gradient(to right, #00f2fe 0%, #d4fc79 19%, #ace0f9 42%, #fa71cd 79%, #fee140 100%) !important
+  background: linear-gradient(88.7deg, #a5c398 -66.25%, #72f1ed 33.75%, #935ddf 133.75%, #779f28 233.75%) !important
+  /*background: linear-gradient(to right, #00f2fe 0%, #d4fc79 19%, #ace0f9 42%, #fa71cd 79%, #fee140 100%) !important*/
+  /*background: linear-gradient(91.2deg, #e588fe -24.31%, #2dd9b3 75.69%, #3a5194 175.69%, #b6000a 275.69%) !important*/
   /*background: linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%) !important*/
   /*background: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%) !important*/
   /*background: linear-gradient(to top, #d5dee7 0%, #ffafbd 0%, #c9ffbf 100%) !important*/
