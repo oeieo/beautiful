@@ -17,15 +17,15 @@ textarea,span,button,li,span,h2,main,kbd,section,header,summary,form,input,ul {
 
 /*自定义背景色*/
 /*github*/
-.Popover,.search-suggestions,.Overlay,.IOwFn,.cfHMLL,.cloud-panel,.dropdown-menu,.ifKjla,.SelectMenu,.select-menu-modal,.suggester-container,.site-subnav,#repos-file-tree,
+.Popover,.search-suggestions,.Overlay,.IOwFn,.cfHMLL,.cloud-panel,.dropdown-menu,.ifKjla,.SelectMenu,.select-menu-modal,.suggester-container,.site-subnav,#repos-file-tree,.ePiodO,
 /*feishu*/
 .docx-menu-container,.overlay-container,.ud__popover-content,.ud__menu-normal,._pp-panel-content,.ud__dialog__wrap,.sheet-date-time-picker-popover,.wiki-space-siderbar,
 body{  
-  /*background: linear-gradient(to right, #00f2fe 0%, #d4fc79 19%, #ace0f9 42%, #fa71cd 79%, #fee140 100%) !important*/ 
-  background: linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%) !important
+   background: linear-gradient(to right, #00f2fe 0%, #d4fc79 19%, #ace0f9 42%, #fa71cd 79%, #fee140 100%) !important
+  /*background: linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%) !important*/
   /*background: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%) !important*/
   /*background: linear-gradient(to top, #d5dee7 0%, #ffafbd 0%, #c9ffbf 100%) !important*/
-  /*background: linear-gradient(-225deg, #77FFD2 0%, #6297DB 48%, #1EECFF 100%) !important*/
+  /*background: linear-gradient(-225deg, #77FFD2 0%, #dbe7f6 48%, #1EECFF 100%) !important*/
   /*background: linear-gradient(-225deg, #2CD8D5 0%, #C5C1FF 56%, #FFBAC3 100%) !important*/
   /*background: linear-gradient(125deg, #ffe4e4 0%, #ECFCFF 40%, #B2FCFF calc(40% + 1px), #B2FCFF 60%, #f2fcff calc(60% + 1px), #5EDFFF 72%, #a4b4f8 calc(72% + 1px), #cbd3f5 100%) !important;*/
 }
