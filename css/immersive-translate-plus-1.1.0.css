@@ -1,6 +1,6 @@
 * {
-    background-color: #C7F5FE !important
-    background: #009dff00 !important
+    background: #009dff00 !important;
+    /*color: #000 !important;*/
 }
 
 /*透明色*/
@@ -19,7 +19,7 @@ textarea,span,button,li,span,h2,main,kbd,section,header,summary,form,input,ul {
 /*github*/
 .Popover,.search-suggestions,.Overlay,.IOwFn,.cfHMLL,.cloud-panel,.dropdown-menu,.ifKjla,.SelectMenu,.select-menu-modal,.suggester-container,.site-subnav,
 /*feishu*/
-.docx-menu-container,.overlay-container,.ud__popover-content,.ud__menu-normal,._pp-panel-content,.ud__dialog__wrap,.sheet-date-time-picker-popover,.wiki-space-siderbar, 
+.docx-menu-container,.overlay-container,.ud__popover-content,.ud__menu-normal,._pp-panel-content,.ud__dialog__wrap,.sheet-date-time-picker-popover,.wiki-space-siderbar,
 body{  
    background: linear-gradient(to right, #00f2fe 0%, #d4fc79 19%, #ace0f9 42%, #fa71cd 79%, #fee140 100%) !important 
 }
