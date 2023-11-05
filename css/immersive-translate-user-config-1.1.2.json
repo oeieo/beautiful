@@ -1,0 +1,73 @@
+{
+  "autoSync": false,
+  "beta": true,
+  "enableInputTranslation": true,
+  "generalRule": {
+    "injectedCss": "/*透明色*/\n*,\n/*github*/\n.color-bg-default,.dAUChH,.color-bg-subtle,.SelectMenu-item,.Box{ \n    background: #009dff00 !important\n}\n\n/*毛玻璃*/\n/*github #repos-file-tree,*/\n.Popover,.search-suggestions,.Overlay,.IOwFn,.cfHMLL,.cloud-panel,.dropdown-menu,.ifKjla,.SelectMenu,.select-menu-modal,.suggester-container,.site-subnav,.ePiodO,\n/*feishu*/\n.docx-menu-container,.overlay-container,.ud__popover-content,.ud__menu-normal,._pp-panel-content,.ud__dialog__wrap,.sheet-date-time-picker-popover,.wiki-space-siderbar{\n  /*backdrop-filter: blur(30px);*/\n  background: linear-gradient(to right, #00f2fe 0%, #d4fc79 19%, #ace0f9 42%, #fa71cd 79%, #fee140 100%) !important\n}\n/*自定义背景色*/\nbody{\n  /*background: linear-gradient(91.1deg, #39f8cc -21.33%, #bbde8d 78.67%, #9ff836 178.67%, #d63dea 278.67%) !important*/\n  /*background: linear-gradient(88.7deg, #a5c398 -66.25%, #72f1ed 33.75%, #935ddf 133.75%, #779f28 233.75%) !important*/\n  background: linear-gradient(to right, #00f2fe 0%, #d4fc79 19%, #ace0f9 42%, #fa71cd 79%, #fee140 100%) !important\n  /*background: linear-gradient(91.2deg, #e588fe -24.31%, #2dd9b3 75.69%, #3a5194 175.69%, #b6000a 275.69%) !important*/\n  /*background: linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%) !important*/\n  /*background: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%) !important*/\n  /*background: linear-gradient(to top, #d5dee7 0%, #ffafbd 0%, #c9ffbf 100%) !important*/\n  /*background: linear-gradient(-225deg, #77FFD2 0%, #dbe7f6 48%, #1EECFF 100%) !important*/\n  /*background: linear-gradient(-225deg, #2CD8D5 0%, #C5C1FF 56%, #FFBAC3 100%) !important*/\n  /*background: linear-gradient(125deg, #ffe4e4 0%, #ECFCFF 40%, #B2FCFF calc(40% + 1px), #B2FCFF 60%, #f2fcff calc(60% + 1px), #5EDFFF 72%, #a4b4f8 calc(72% + 1px), #cbd3f5 100%) !important;*/\n}\n\n/*twitter 解决图片展示不出来问题.css-9pa8cd*/\nimg{\n  opacity: 1 !important;\n  object-fit: cover;\n}",
+    "isShowUserscriptPagePopup": false,
+    "mouseHoverHoldKey": "Auto",
+    "subtitleRule.add": {
+      "autoEnableSubtitle": true
+    }
+  },
+  "inputTranslationService": "bing",
+  "isChangedAlwaysTranslatedUrls": true,
+  "isShowInputTranslationConsent": false,
+  "modifiedBySystem": true,
+  "monkeyH5FloatBall": {
+    "afterInstalledAt": "",
+    "blockUrls": [],
+    "clickType": "translate",
+    "enable": true,
+    "isPc": false
+  },
+  "pcFloatBall": {
+    "afterInstalledAt": "2023-10-28",
+    "blockUrls": [],
+    "clickType": "translate",
+    "enable": false,
+    "isPc": true
+  },
+  "translationService": "bing",
+  "translationServices": {
+    "openai": {
+      "APIKEY": "authorization268867622145139847bitoUserId139847wsId87967",
+      "apiUrl": "https://worker-odd-surf-49ef.niuniu-tie.workers.dev/",
+      "model": "gpt-3.5-turbo",
+      "provider": "custom"
+    }
+  },
+  "translationTheme": "marker2",
+  "translationThemePatterns": {
+    "marker2": {
+      "backgroundColor": "#fff700"
+    }
+  },
+  "translationUrlPattern": {
+    "excludeMatches": [
+      "*.github.dev",
+      "*.cloudflare.com",
+      "*.99.74.69",
+      "*.live.com",
+      "*.feishu.cn",
+      "*.qingshuxuetang.com",
+      "*.msxf.com",
+      "https://projects.skratchdot.com/infinite-gradients?angle=345.6&colors=c746ff%2C%23e7abcb%2C%2383a297%2C%233126d2&offset=75.72&posX=0.861&posY=0.277&speed=0.688&type=linear",
+      "projects.skratchdot.com"
+    ],
+    "matches": [
+      "twitter.com",
+      "www.reddit.com",
+      "www.kadaza.com",
+      "en.wikipedia.org",
+      "www.reuters.com",
+      "www.bloomberg.com",
+      "*.medium.com",
+      "news.ycombinator.com",
+      "edition.cnn.com",
+      "www.wsj.com",
+      "www.goodreads.com"
+    ]
+  },
+  "updatedAt": "2023-11-05T02:31:07.039Z"
+}
